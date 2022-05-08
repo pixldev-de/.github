@@ -10,12 +10,12 @@ Your all in one Discord bot! | Moderation, Server Utillity, Fun and more!
 ## 👥 Our Team!
 
 ## Administrators
-<img style="border-radius: 50%; height: 96px; background-color: #36393e;" src="https://user-images.githubusercontent.com/31692271/167304846-c6c04813-9244-42be-8070-c0d77f568251.png">
+<img style="border-radius: 50%; height: 96px; background-color: #36393e;" src="https://user-images.githubusercontent.com/31692271/167306307-e6ca93d7-d47c-4b85-a5d2-3437fcefed4a.png">
 
 ## Developers
- <img style="border-radius: 50%; height: 80px;  background-color: #36393e;" src="https://user-images.githubusercontent.com/31692271/167305432-df3fe5da-9035-4744-b847-dd3bf57e0afb.png">
- <img style="border-radius: 50%; height: 80px;  background-color: #36393e;" src="https://user-images.githubusercontent.com/31692271/167305433-d1361b41-c3ff-4ab8-ab87-57b8b2d9c9bf.png">
+ <img style="border-radius: 50%; height: 80px;  background-color: #36393e;" src="https://user-images.githubusercontent.com/31692271/167306319-86c6d508-c978-47f9-9061-b9a871026960.png">
+ <img style="border-radius: 50%; height: 80px;  background-color: #36393e;" src="https://user-images.githubusercontent.com/31692271/167306319-86c6d508-c978-47f9-9061-b9a871026960.png">
 
 ## Translators
- <img style="border-radius: 50%; height: 64px;  background-color: #36393e;" src="https://user-images.githubusercontent.com/31692271/167304850-7dab22e8-037e-4bfd-addf-e6dd3de09eab.png">
+ <img style="border-radius: 50%; height: 64px;  background-color: #36393e;" src="https://user-images.githubusercontent.com/31692271/167306317-2d63edb2-75b0-4384-88ad-85333afe66f9.png">
 </div>
