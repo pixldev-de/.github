@@ -2,7 +2,7 @@
 
 # Welcome to CLYD≡ 👋
 ```markdown
-Moderation, Server Utillity, Fun and more! | A Discord Bot for Server Utillitys like Reaction Roles and Welcome Messages!
+Your all in one Discord bot! | Moderation, Server Utillity, Fun and more!
 ```
 #
  
