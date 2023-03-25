@@ -1,6 +1,6 @@
 <div align="center">
 
-# Welcome to CLYD≡ 👋
+# Welcome to Pixl 👋
 ```markdown
 Your all in one Discord Bot! | Moderation, Server Utillity, Fun and more!
 ```
@@ -49,5 +49,3 @@ Your all in one Discord Bot! | Moderation, Server Utillity, Fun and more!
   </tr>
  </table>
 </div>
-
-
